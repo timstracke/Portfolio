@@ -11,8 +11,6 @@ data science portfolio
 * Analysed the relationship between the weather and the amount of daily uber trips using linear regression analysis
 * Used python, pandas, seaborn, plotly and sklearn to analyse the data
 
-
-## [Project 3: Farming Emotes](https://github.com/timstracke/farming_emotes)
-* Developed a python script that scrapes twitch chats in real-time and counts how often certain emotes appear in chats of various twitch channels
-* Developed a backend with a database for the daily counts of emotes for different twitch streamers
-* Currently developing a frontend to display these counts 
+## [Project 3: Lionel Messi Dashboard](https://github.com/timstracke/messi_dashboard)
+* Collected and processed data with Python 
+* Created a [dashboard](https://public.tableau.com/views/MessiinLaLiga/Dashboard1?:language=de-DE&:display_count=n&:origin=viz_share_link) with Tableau
